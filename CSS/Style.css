@@ -852,9 +852,7 @@ and we need to hide the close menu icon
     align-items: center;
   }
 
-  .section-hero-image{
-    background-color: #000;
-  }
+  
   .section-contact .grid-two-column{
     grid-template-columns: 1fr;
   }
