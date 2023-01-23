@@ -762,7 +762,7 @@ and we need to hide the close menu icon
   
    .section-contact-main input[type="submit"]{
     /* width: 80%; */
-    font-size: 80%;
+    font-size: 70%;
   }
 
   .section-contact-main input, .section-contact-main textarea{
