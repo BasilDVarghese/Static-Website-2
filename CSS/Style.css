@@ -766,7 +766,7 @@ and we need to hide the close menu icon
   }
 
   .section-contact-main input, .section-contact-main textarea{
-    width: 200px;
+    width: 80%;
   }
   .hero-heading{
     font-size: 2px;
