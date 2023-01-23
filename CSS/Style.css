@@ -759,7 +759,15 @@ and we need to hide the close menu icon
   .container{
     max-width: 71rem;
   }
+  
+   .section-contact-main input[type="submit"]{
+    /* width: 80%; */
+    font-size: 80%;
+  }
 
+  .section-contact-main input, .section-contact-main textarea{
+    width: 200px;
+  }
   .hero-heading{
     font-size: 2px;
   }
